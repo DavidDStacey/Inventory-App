@@ -2,7 +2,7 @@
 
 ## General Info:
 
-An inventory app of both outsourced and inhouse parts
+An inventory app of both outsourced and inhouse parts and products that can be added, removed, and modified.
 
 ## Technologies:
 
