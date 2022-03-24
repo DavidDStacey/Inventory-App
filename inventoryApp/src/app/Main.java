@@ -13,7 +13,7 @@ public class Main extends Application
     @Override
     public void start(Stage primaryStage) throws Exception
     {
-        Parent root = FXMLLoader.load(getClass().getResource("/app/viewController/mainScreen.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("/app/view/mainScreen.fxml"));
         Scene scene = new Scene(root);
         primaryStage.setTitle("Inventory Management System");
         primaryStage.setScene(scene);
